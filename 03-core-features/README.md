@@ -13,3 +13,5 @@ This module demonstrates the building blocks used in all GitHub Actions workflow
 - [**03-core-features--07-secrets-and-variables.yaml**](../.github/workflows/03-core-features--07-secrets-and-variables.yaml) – demonstrates injecting secrets and variables from both the repository and environments.
 
 See the `filters` directory for sample files that are used by the triggers and filters workflow.
+
+its fine
